@@ -1,0 +1,70 @@
+/CIDInit /ProcSet findresource begin 12 dict begin begincmap /CIDSystemInfo <<
+/Registry (TT1+0) /Ordering (T42UV) /Supplement 0 >> def
+/CMapName /TT1+0 def
+/CMapType 2 def
+1 begincodespacerange
+<004d> <00cc>
+endcodespacerange
+beginbfchar
+<0068> <fed6>
+<0064> <fea2>
+<0061> <fec4>
+<005f> <fefb>
+<005e> <fb58>
+<005d> <0622>
+<005b> <0633>
+<0059> <fed7>
+<0057> <fea7>
+<0054> <fb94>
+<0053> <fee8>
+<0052> <fee0>
+<0050> <feea>
+<004f> <0645>
+<004e> <fe9f>
+<004c> <fedf>
+<004b> <0630>
+<004a> <fea0>
+<0049> <fef3>
+<0048> <feb0>
+<0047> <fea4>
+<0046> <febb>
+<0045> <fed4>
+<0044> <fee4>
+<0043> <0648>
+<0042> <fb8b>
+<0041> <062f>
+<003f> <feee>
+<003e> <0632>
+<003d> <fecb>
+<003c> <fe92>
+<003b> <feb3>
+<003a> <06cc>
+<0039> <0627>
+<0038> <feb4>
+<0037> <0646>
+<0036> <fedb>
+<0035> <fee7>
+<0034> <fe8e>
+<0033> <0647>
+<0032> <feaa>
+<0031> <0631>
+<0030> <06cc>
+<002f> <feb7>
+<002e> <fe90>
+<002d> <fe91>
+<002c> <feb8>
+<002b> <feec>
+<002a> <fed3>
+<0029> <FEFC>
+<0028> <fea3>
+<0027> <fe98>
+<0026> <fb95>
+<0025> <feae>
+<0024> <fee3>
+<0023> <fecc>
+<0022> <fef4>
+<0021> <fee6>
+endbfchar
+beginbfrange
+endbfrange
+endcmap CMapName currentdict /CMap defineresource pop end end
